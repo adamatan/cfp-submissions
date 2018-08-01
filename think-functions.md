@@ -10,14 +10,17 @@ What would apps look like if we never have to think about servers, never have to
 ---
 
 # Description
-This session describes how an entire real-time app can be built out of functions and still be responsive and cost-efficient. We will present and architectural overview of the app, and how can we split it into services. 
+This session describes how an entire real-time app can be built out of functions and still be responsive and cost-efficient. We will present and architectural overview of the app, and how can we split it into services.
 
-Now, code! We will write an entire service in functions, and describe how we can express concurrent invocations of functions - ranging from simple parallel execution, to applying numerical and logical operators on cloud functions.
+Now, *code*! We will write an entire service - the ride service, responsible for hailing a car in real time - in functions, and describe how we can express concurrent invocations of functions - ranging from simple parallel execution, to applying numerical and logical operators on cloud functions.
 
-To conclude, we will analyze cost and performance enablers
+To conclude, we will analyze cost and performance considerations and the limitations of current platforms.
 
 # Is it practical?
 _Yes_. While not each and every operator presented on stage is available on every FaaS platform, most of them can be applied using third-party libraries.
+
+# Is it technical?
+_Yes_. While we do discuss performance and cost, most of the session is about code with concurrent invocations of remote functions.
 
 
 # Topics covered
