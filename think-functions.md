@@ -1,5 +1,5 @@
 # Title
-Thinks functions
+Thinks Functions
 
 # Elevator Pitch (300 characters)
 What would apps look like if we never have to think about servers, never have to think about performance and never have to think about cost? This session shows how an entire application, a car-hail service, can be built out of functions - from architectural overview to actual JS code.
