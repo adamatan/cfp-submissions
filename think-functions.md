@@ -2,7 +2,7 @@
 Thinks Functions
 
 # Elevator Pitch (300 characters)
-What would apps look like if we never had to think about servers, performance or even cost? This session demonstrates how an "uber-like" ridesharing application can be built entirely from functions -  starting with a architectural overview and progressing to actual JS code.
+What would apps look like if we never had to think about servers, performance or even cost? This session demonstrates how an Uber-like ridesharing application can be built entirely from functions -  starting with a architectural overview and progressing to actual JS code.
 
 
 # Talk Format
@@ -10,7 +10,7 @@ What would apps look like if we never had to think about servers, performance or
 ---
 
 # Description
-This session demonstrates how a real-time app can be built soley out of functions while remaining responsive and cost-effective. We present a architecture overview of the app, and walk through the process of splitting it into individual services.
+This session demonstrates how a real-time app can be built solely out of functions while remaining responsive and cost-effective. We present a architecture overview of the app, and walk through the process of splitting it into individual services.
 
 Now, *code*! We write an entire service - the ridesharing service, responsible for hailing a car in real time - in functions, and describe how we can express concurrent invocations of such functions - ranging from simple parallel execution, to applying numerical and logical operators on cloud functions.
 
