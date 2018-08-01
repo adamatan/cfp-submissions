@@ -28,7 +28,10 @@ _Yes_. While we do discuss performance and cost, most of the session is code cen
 * Advantages of building an app from functions
 * Architectural review and services
 * Code!
-  * 
+
+![Car service flowchart](https://raw.githubusercontent.com/adamatan/cfp-submissions/think-functions/img/think-functions-flowchart.png "Car service flowchart")
+
+![Car service code](https://raw.githubusercontent.com/adamatan/cfp-submissions/think-functions/img/think-functions-code.png "Car service JS code")
 
 ---
 
