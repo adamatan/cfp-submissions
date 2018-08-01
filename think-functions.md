@@ -25,7 +25,7 @@ _Yes_. While we do discuss performance and cost, most of the session is about co
 
 # Topics covered
 * Taxi app for driverless cars: Why do we choose Virtual Machines and Containers?
-* Advatages of building an app from functions
+* Advantages of building an app from functions
 * Architectural review and services
 * Code!
   * 
@@ -33,7 +33,7 @@ _Yes_. While we do discuss performance and cost, most of the session is about co
 ---
 
 # Notes for the reviewers
-I delviered this session (along with another speaker) in another Serverless conference and received positive feedback. The session is intended for technical audience, as it dives into code.
+I delivered this session (along with another speaker) in another Serverless conference and received positive feedback. The session is intended for technical audience, as it dives into code.
 
 # Is it vendor-specific?
-_Just a little_. Some of the advantages we present are unique to a single platform, but most of the patterns are available on most plarforms directly or via third-party libraries.
+_Just a little_. Some of the advantages we present are unique to a single platform, but most of the patterns are available on most platforms directly or via third-party libraries.
