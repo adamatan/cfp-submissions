@@ -2,7 +2,7 @@
 Thinks Functions
 
 # Elevator Pitch (300 characters)
-What would apps look like if we never have to think about servers, never have to think about performance and never have to think about cost? This session shows how an entire application, a car-hail service, can be built out of functions - from architectural overview to actual JS code.
+What would apps look like if we never had to think about servers, performance or even cost? This session demonstrates how an "uber-like" ridesharing application can be built entirely from functions -  starting with a architectural overview and progressing to actual JS code.
 
 
 # Talk Format
@@ -10,17 +10,17 @@ What would apps look like if we never have to think about servers, never have to
 ---
 
 # Description
-This session describes how an entire real-time app can be built out of functions and still be responsive and cost-efficient. We will present and architectural overview of the app, and how can we split it into services.
+This session demonstrates how a real-time app can be built soley out of functions while remaining responsive and cost-effective. We present a architecture overview of the app, and walk through the process of splitting it into individual services.
 
-Now, *code*! We will write an entire service - the ride service, responsible for hailing a car in real time - in functions, and describe how we can express concurrent invocations of functions - ranging from simple parallel execution, to applying numerical and logical operators on cloud functions.
+Now, *code*! We write an entire service - the ridesharing service, responsible for hailing a car in real time - in functions, and describe how we can express concurrent invocations of such functions - ranging from simple parallel execution, to applying numerical and logical operators on cloud functions.
 
 To conclude, we will analyze cost and performance considerations and the limitations of current platforms.
 
 # Is it practical?
-_Yes_. While not each and every operator presented on stage is available on every FaaS platform, most of them can be applied using third-party libraries.
+_Yes_. While not each and every operator presented on stage is available on all FaaS platforms, most of them can be applied using third-party libraries.
 
 # Is it technical?
-_Yes_. While we do discuss performance and cost, most of the session is about code with concurrent invocations of remote functions.
+_Yes_. While we do discuss performance and cost, most of the session is code centric, discussing the implications of concurrent invocations to remote functions.
 
 
 # Topics covered
@@ -33,7 +33,7 @@ _Yes_. While we do discuss performance and cost, most of the session is about co
 ---
 
 # Notes for the reviewers
-I delivered this session (along with another speaker) in another Serverless conference and received positive feedback. The session is intended for technical audience, as it dives into code.
+I delivered this session (along with co-speaker) in Serverless conference 2018 SF and received positive feedback. The session is intended for a technical audience, as does include considerable amounts of code.
 
 # Is it vendor-specific?
 _Just a little_. Some of the advantages we present are unique to a single platform, but most of the patterns are available on most platforms directly or via third-party libraries.
