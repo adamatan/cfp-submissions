@@ -29,9 +29,9 @@ _Yes_. While we do discuss performance and cost, most of the session is code cen
 * Architectural review and services
 * Code!
 
-![Car service flowchart](https://raw.githubusercontent.com/adamatan/cfp-submissions/master/img/think-functions-flowchart.png "Car service flowchart")
+![Car service flowchart](img/think-functions-flowchart.png "Car service flowchart")
 
-![Car service code](https://raw.githubusercontent.com/adamatan/cfp-submissions/master/img/think-functions-code.png "Car service JS code")
+![Car service code](img/think-functions-code.png "Car service JS code")
 
 ---
 
