@@ -15,3 +15,6 @@ Video samples and nicer HTML: https://adamatan.github.io/cfp-submissions/
 * [A practical workshop for building a Serverless app backed by Redis](cfps/redis-serverless-workshop.md)
 * [Think Functions](cfps/think-functions.md)
 * [Think Functions (Short version)](cfps/think-functions-short-kubecon.md)
+
+# Bio
+Developer and DevRel at [Binaris](https://binaris.com/). Ex [Waze](https://en.wikipedia.org/wiki/Waze), [Yahoo](https://techcrunch.com/2010/10/05/yahoo-dapper/) and [Vioozer](https://www.crunchbase.com/organization/viooz). Building backend apps for the last decade. Public speaker, [Serverless Days TLV](https://tlv.serverlessdays.io/) founder, [Serverless Nights TLV](https://www.meetup.com/ServerlessTLV) co-founder. Linux and Bitcoin fan.
