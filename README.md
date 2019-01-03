@@ -16,5 +16,10 @@ Video samples and nicer HTML: https://adamatan.github.io/cfp-submissions/
 * [Think Functions](cfps/think-functions.md)
 * [Think Functions (Short version)](cfps/think-functions-short-kubecon.md)
 
+# Communities
+* Founded [Serverless Days TLV](https://tlv.serverlessdays.io/), Israel's first Serverless conference with ~250 attendees
+* Co-Founded [Serverless Nights TLV](https://www.meetup.com/ServerlessTLV), Israel's leading Serverless meetup group
+* Volunteer at [Reversim Summit](https://summit2018.reversim.com/), Israel's largest open-source and startup conference. Head of conference ([2016](https://summit2016.reversim.com/)), Head of content ([2017](https://summit2017.reversim.com/)), Track moderator ([2018](https://summit2018.reversim.com/))
+
 # Bio
 Developer and DevRel at [Binaris](https://binaris.com/). Ex [Waze](https://en.wikipedia.org/wiki/Waze), [Yahoo](https://techcrunch.com/2010/10/05/yahoo-dapper/) and [Vioozer](https://www.crunchbase.com/organization/viooz). Building backend apps for the last decade. Public speaker, [Serverless Days TLV](https://tlv.serverlessdays.io/) founder, [Serverless Nights TLV](https://www.meetup.com/ServerlessTLV) co-founder. Linux and Bitcoin fan.
