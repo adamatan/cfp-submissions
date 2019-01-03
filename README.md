@@ -1,5 +1,5 @@
 # Website
-Video samples and nicer HTML: https://adamatan.github.io/cfp-submissions/
+Video samples and nicer HTML: https://adamatan.github.io/cfp
 
 # Public Speaking Experience
 
