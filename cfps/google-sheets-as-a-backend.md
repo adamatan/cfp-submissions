@@ -23,6 +23,13 @@ The surprising solution was using Google Sheets as my backend. User authenticati
 * Build tools: Jinja, S3, Cloudfront, Lambda, [discourse](https://www.discourse.org/)
 * Lessons learned
 
+# Images
+## Google Sheets Agenda
+![Google Sheets Agenda](img/google_sheets_agenda_sheets.png "Google Sheets Agenda")
+
+## Agenda Webpage
+![Agenda Webpage](img/google_sheets_agenda_site.jpg "Agenda Webpage")
+
 ---
 
 # Notes for the reviewers
