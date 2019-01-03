@@ -26,3 +26,6 @@ The surprising solution was using Google Sheets as my backend. User authenticati
 ---
 
 # Notes for the reviewers
+* A user story in which Serverless tools and principles (never pay for idle, worry-free scaling and service mesh) helped me solve a common problem
+* Introductory-level session that almost every developer can relate to
+* Google Sheets is not a classic Serverless example. Explaining this choice helps me discuss Serverless principles, not just products
