@@ -15,6 +15,7 @@ Video samples and nicer HTML: https://adamatan.github.io/cfp
 * [Serverlessconf San Francisco](https://sf.serverlessconf.io/home.html), 2018-07-31, [Think Functions](https://acloud.guru/series/serverlessconf-sf-2018/view/944a6499-5dc0-ac52-8cae-7dafced1a286), With Avner Braverman
 * [Serverless TLV Meetup](https://www.meetup.com/ServerlessTLV/events/sjcrdqyxmbhb/), 2018-09-04, [Think Functions](https://www.youtube.com/watch?v=Xr9fa_CtLL8) (Hebrew)
 * [Serverless Days Milano](https://milan.serverlessdays.io/), 2018-10-19, [Think Functions](https://youtu.be/hB8Mpew44wk)
+* [Reversim Summit 2019](https://summit2019.reversim.com/), 2019-06-17, [Demystifying git: from SHA to interactive rebase](https://summit2019.reversim.com/session/5c75adf7e037850017ca38cd.html) ([Slides](https://drive.google.com/open?id=143w10UlY0Byd_I4GPEWInPHpyKlq2drMx1ExinIXZc0), Video coming soon)
 
 
 # Communities
