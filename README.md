@@ -1,6 +1,16 @@
 # Public Speaking Experience
 
-[![Reversim 2019 Stage Selfie Adam Matan](img/rs2019-stage-selfie.jpg)](http://www.youtube.com/watch?v=FlpXes7QVk4)
+[![Reversim 2019 Stage - Adam Matan - Credit Gidi Fisher www.artcore.media](img/Demystifying-Git-Reversim-Summit.JPG)](https://www.youtube.com/playlist?list=PLCN6Xts5ioBWNGx3bAGPv7LL3qgD6REKe)
+
+Image credit - Gidi Fisher, [Artcore media](www.artcore.media)
+
+## 2019
+
+* [Reversim Summit 2019](https://summit2019.reversim.com/), 2019-06-17, [Demystifying git: from SHA to interactive rebase](https://summit2019.reversim.com/session/5c75adf7e037850017ca38cd.html) ([Slides](https://drive.google.com/open?id=143w10UlY0Byd_I4GPEWInPHpyKlq2drMx1ExinIXZc0), [Video](https://youtu.be/FlpXes7QVk4)), Hebrew
+* [Practical git for devs](https://www.facebook.com/1839082432986850/posts/2436625203232567), 2019-05-15, at [Outbrain.com](outbarin.com) with a workshop, [Youtube Video (English)](https://youtu.be/j_tP0K_nZcQ)
+* [FITC Web Unleashed 2019](https://fitc.ca/presentation/building-a-serverless-production-ready-web-app-in-45-minutes/), 2019-09-13, [Building a Serverless, Production-Ready Web App in 45 Minutes](https://www.youtube.com/watch?v=zlccgcKzQkI&list=PLCN6Xts5ioBWNGx3bAGPv7LL3qgD6REKe&index=9&t=274s)
+
+## 2018
 
 * [Reversim Summit 2019](https://summit2019.reversim.com/), 2019-06-17, [Demystifying git: from SHA to interactive rebase](https://summit2019.reversim.com/session/5c75adf7e037850017ca38cd.html) ([Slides](https://drive.google.com/open?id=143w10UlY0Byd_I4GPEWInPHpyKlq2drMx1ExinIXZc0), [Video](https://youtu.be/FlpXes7QVk4))
 * [Serverless Days Milano](https://milan.serverlessdays.io/), 2018-10-19, [Think Functions](https://youtu.be/hB8Mpew44wk)
@@ -26,3 +36,5 @@
 
 # Bio
 R&D manager at [Wix](http://wix.com/), building a serverless platform for rapid web apps development. Ex Dev/DevRel at [Reshuffle](https://reshuffle.com/), [Waze](https://en.wikipedia.org/wiki/Waze), [Yahoo](https://techcrunch.com/2010/10/05/yahoo-dapper/) and [Vioozer](https://www.crunchbase.com/organization/viooz). I have been building backend apps for the last decade. Public speaker, [Serverless Days TLV](https://tlv.serverlessdays.io/) founder, [Serverless Nights TLV](https://www.meetup.com/ServerlessTLV) co-founder. Linux and Bitcoin fan. Based in Tel Aviv. My public key is [`F83B4D4DB6C43726`](https://keybase.io/adamatan).
+
+[![Reversim 2019 Stage Selfie Adam Matan](img/rs2019-stage-selfie.jpg)](https://www.youtube.com/playlist?list=PLCN6Xts5ioBWNGx3bAGPv7LL3qgD6REKe)
