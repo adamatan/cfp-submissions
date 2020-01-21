@@ -19,7 +19,11 @@ Image credit - Gidi Fisher, [Artcore media](www.artcore.media)
 * [Reversim Podcast](http://www.reversim.com/), 2018-04-24, [Episode 340: Serverless with Adam Matan](http://www.reversim.com/2018/04/340-serverless-with-adam-matan.html), Audio, Hebrew
 * [Serverlessconf Paris](http://paris.serverlessconf.io/), 2018-02-15, [Sub second CI CD pipeline with FaaS](https://www.youtube.com/watch?v=iG4WIEixTf4), With Avner Braverman
 
-# CFPs
+## YouTube Playlist
+
+[![Adam Matan's Public Speaking YouTube Playlist](img/youtube_logo_resized.png)](https://www.youtube.com/playlist?list=PLCN6Xts5ioBWNGx3bAGPv7LL3qgD6REKe)
+
+## CFPs
 
 * [Demystifying git: from SHA to interactive rebase](cfps/2019-06-17---demystifying-git-from-sha-to-interactive-rebase.md)
 * [Google Sheets as a backend: Generating static websites with dynamic content](cfps/google-sheets-as-a-backend.md)
@@ -28,14 +32,14 @@ Image credit - Gidi Fisher, [Artcore media](www.artcore.media)
 * [Think Functions (Short version)](cfps/think-functions-short-kubecon.md)
 * [Content curation](cfps/content-curation.md)
 
-
-# Communities
+## Communities
 
 * Founded [Serverless Days TLV](https://tlv.serverlessdays.io/), Israel's first Serverless conference with ~250 attendees
 * Co-Founded [Serverless Nights TLV](https://www.meetup.com/ServerlessTLV), Israel's leading Serverless meetup group
 * Volunteer at [Reversim Summit](https://summit2018.reversim.com/), Israel's largest open-source and startup conference. Head of conference ([2016](https://summit2016.reversim.com/)), Head of content ([2017](https://summit2017.reversim.com/)), Track moderator ([2018](https://summit2018.reversim.com/))
 
-# Bio
+## Bio
+
 R&D manager at [Wix](http://wix.com/), building a serverless platform for rapid web apps development. Ex Dev/DevRel at [Reshuffle](https://reshuffle.com/), [Waze](https://en.wikipedia.org/wiki/Waze), [Yahoo](https://techcrunch.com/2010/10/05/yahoo-dapper/) and [Vioozer](https://www.crunchbase.com/organization/viooz). I have been building backend apps for the last decade. Public speaker, [Serverless Days TLV](https://tlv.serverlessdays.io/) founder, [Serverless Nights TLV](https://www.meetup.com/ServerlessTLV) co-founder. Linux and Bitcoin fan. Based in Tel Aviv. My public key is [`F83B4D4DB6C43726`](https://keybase.io/adamatan).
 
 [![Reversim 2019 Stage Selfie Adam Matan](img/rs2019-stage-selfie.jpg)](https://www.youtube.com/playlist?list=PLCN6Xts5ioBWNGx3bAGPv7LL3qgD6REKe)
